@@ -20,7 +20,7 @@ Replace `index.html` in the repository with the latest version and commit. GitHu
 ## Prototype notes
 
 - Fixed illustrative action timings; this is not an exam certification tool.
-- Drag a portafilter into position, then tap to operate the equipment.
+- Select a portafilter, then tap its destination. Equipment runs automatically; tap tools to use them on the selected basket.
 - Each handle can be dosed once per attempt.
 - The preparation timer stops once both pumps have started; extraction continues.
 - Landscape phones use a compact layout with the full bar, timer and coaching advice visible. Physical-device testing is still recommended.
